@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Informasi Akademik SMK Islamiyah Ciputat",
+  "description": "Sistem manajemen operasional sekolah modern untuk SMK Islamiyah Ciputat: kelola data siswa, guru, kelas, mata pelajaran, jadwal, absensi, nilai raport, pengumuman, dan arsitektur Laravel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
